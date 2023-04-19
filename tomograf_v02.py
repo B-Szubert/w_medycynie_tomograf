@@ -1,6 +1,6 @@
 import streamlit as st
 st.write("""# I'm just learning to write apps in *Streamlit*""")
-st.write('# :otter:')
+st.write('# :brain:')
 
 number_1=st.slider("Podaj liczbę skanów",90,720)
 number_2=st.slider("Podaj liczbę dekoderów",90,720)
